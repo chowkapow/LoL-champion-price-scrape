@@ -1,11 +1,3 @@
-/*
-  Scrapes the price for each champion found in http://leagueoflegends.wikia.com/wiki/List_of_champions
-  and creates a JSON.
-
-  Champion Count: 141
-  Last Updated: Sept 18, 2018
-*/
-
 const cheerio = require('cheerio');
 const fs = require('fs')
 const rp = require('request-promise');
