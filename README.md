@@ -8,4 +8,4 @@ Newest champ: Neeko
 Instructions
 
 1. npm install
-2. node index.js
+2. npm run start
