@@ -2,9 +2,9 @@
 
 Scrapes the price for each champion found in http://leagueoflegends.wikia.com/wiki/List_of_champions and creates a JSON.
 
-Last Updated: Jan 10, 2019
+Last Updated: Jan 23, 2021
 
-Newest champ: Neeko
+Newest champ: Viego
 
 Instructions
 
