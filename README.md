@@ -1,4 +1,4 @@
-# LoL-Champion-Price-Scrape
+# lol-champion-price
 
 Scrapes the price for each champion found in http://leagueoflegends.wikia.com/wiki/List_of_champions and creates a JSON.
 
